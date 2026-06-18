@@ -16,7 +16,7 @@ ace.Manhandla = function(game, room) {
   game.currentRoom_.cameraTargetOffset = game.currentRoom_.cameraEyeOffset = [0,-30,60];
   this.speed = 2;
   this.direction = Math.PI / 4;
-  this.hitPoints = 12;
+  this.hitPoints = 5;
 };
 ace.inherits(ace.Manhandla, ace.Enemy);
 
