@@ -16,7 +16,7 @@ ace.Darknut = function(game, room) {
   this.facing = ace.randomFacing();
   this.walkSpeed = 1.5;
   this.rotX = -.4;
-  this.hitPoints = 4;
+  this.hitPoints = 3;
 };
 ace.inherits(ace.Darknut, ace.Enemy);
 
