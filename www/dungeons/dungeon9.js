@@ -381,8 +381,6 @@ room.addActor('Zol',312,1352);
 room.addActor('Bubble',312,1288);
 room.addActor('Zol',344,1336);
 room.addActor('Bubble',344,1304);
-room.addActor('Keese',376,1336);
-room.addActor('Keese',376,1304);
 room.addActor('Water',424,1368);
 room.addActor('Water',424,1352);
 room.addActor('Water',424,1336);
