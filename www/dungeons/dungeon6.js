@@ -119,8 +119,6 @@ room.addActor('BarredDoor',128,728);
 room.addActor('Bubble',88,776);
 room.addActor('LikeLike',104,808);
 room.addActor('Block',104,792,{type:'tan'});
-room.addActor('WizzrobeBlue',136,792);
-room.addActor('WizzrobeBlue',152,808);
 room.addActor('Block',152,792,{type:'tan'});
 room.addActor('LikeLike',168,840);
 room.addActor('LikeLike',200,824);
